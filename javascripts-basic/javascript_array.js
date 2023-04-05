@@ -177,8 +177,9 @@ console.log(ageUnder21);
 /*
     6==============>  reducing an array
 
-*/
+
 let numbers1 = [4,5];
 
 const totalNumber = numbers1.reduce((oldNumber, newNumber)=> oldNumber + newNumber, 0);
 console.log(totalNumber);
+*/
