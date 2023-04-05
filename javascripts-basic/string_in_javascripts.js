@@ -70,9 +70,9 @@
 
 /*
     7==============> String Immutability
+    let names = "Sabbir Ahmmed";
+    names[0] = "s"; // is not working
+    names = "sabbir Ahmmed";
+    
+    console.log(names);
 */
-let names = "Sabbir Ahmmed";
-names[0] = "s"; // is not working
-names = "sabbir Ahmmed";
-
-console.log(names);
