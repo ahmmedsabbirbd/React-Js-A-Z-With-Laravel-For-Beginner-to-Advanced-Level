@@ -91,13 +91,13 @@ console.log(addNumbers(2, 2));
 
 /*
     6==============>   padStart, padEnd TrimStart, TrimEnd
-*/
+
 let minute = "4";
 let hour = "8";
 
 console.log(minute.padStart(5, "0"))
 console.log(minute.padEnd(5, "0"))
-
+*/
 /*
     7==============>  
 */ 
