@@ -1,0 +1,8 @@
+* basic javascript
+* ES6 fetures
+	-> var, let, const
+	-> arrow function
+	-> this keyword
+	-> object
+	-> class
+	-> use of npm
